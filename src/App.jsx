@@ -16,7 +16,7 @@ function App() {
     <>
      <Fruits/>
       <hr/>
-     <Students name="Lana" age={30} isStudent={true}/>
+     <Students name="Luna" age={30} isStudent={true}/>
      <Students name="Aljun" age={14} isStudent = {false}/>
     <Students name="Lando" age= {49} isStudent = {true}/>
     
